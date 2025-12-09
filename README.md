@@ -49,13 +49,19 @@ pip install -r requirements.txt
 
 <br>
 
+## Folder Structure
+1. create an empty folder "data" for storing train and test dataset
+2. create an empty "models" folder for storing trained model
+
+<br>
+
 ## Usage  
 Run the main script 
 ```python
 python3 run_robot.py
 ```
 
-Open the live camera feed
+Open the live camera feed given in the terminal
 ```python
 http://<your-raspberrypi-ip>:5000
 ```
