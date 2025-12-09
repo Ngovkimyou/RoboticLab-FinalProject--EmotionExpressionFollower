@@ -42,7 +42,12 @@ Install PySerial ( for robot control )
 pip install pyserial
 ```
 
-Install 
+Install Dependencies  
+```python
+pip install -r requirements.txt
+```
+
+<br>
 
 ## Usage  
 Run the main script 
